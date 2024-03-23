@@ -1,0 +1,50 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: black;
+    color: rgb(91, 160, 219);
+}
+
+.header-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+
+.logo-box {
+    width: 25%;
+    border-style: none;
+    background: none;
+    padding-left: 5rem;
+    padding-right: 10rem; 
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.nav-box {
+    width: 75%;
+    border-style: none;
+    background: none;
+    padding-left: 3rem;
+    padding-right: 10rem; 
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+} 
+
+.nav-box a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-box a:hover {
+    text-decoration: none;
+    color: rgb(91, 160, 219);
+}
+
