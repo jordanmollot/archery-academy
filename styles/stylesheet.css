@@ -1,7 +1,35 @@
+.content {
+    color: rgb(68, 68, 68);
+}
+
 h1 {
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(3, 163, 223);
     padding-left: 10rem;
     padding-top: 3rem;
     padding-bottom: 0rem;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 24px;
+    color: rgb(236, 183, 34);
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 17px;
+    color: rgb(3, 163, 223);
+}
+
+p {
+    font-weight: normal;
+    font-size: 17px;
+}
+
+hr.thick {
+    border: 5px solid rgb(3, 163, 223);
 }
 
 .about-container {
@@ -18,7 +46,7 @@ h1 {
     padding-left: 10rem;
     padding-right: 5rem; 
     padding-top: 1rem;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
 }
 
 .owner-box {
@@ -28,13 +56,20 @@ h1 {
     padding-left: 2rem;
     padding-right: 10rem; 
     padding-top: 1rem;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
 } 
 
-#instructors {
-    padding-left: 10rem;
-    padding-top: 1rem;
-    padding-bottom: 0rem;
+#quote-text {
+    font-weight: normal;
+    font-size: 30px;
+    color: rgb(3, 163, 223);
+}
+
+#quote-speaker {
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: rgb(3, 163, 223);
 }
 
 .instructor-container {
