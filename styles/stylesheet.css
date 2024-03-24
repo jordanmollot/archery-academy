@@ -32,6 +32,12 @@ hr.thick {
     border: 5px solid rgb(3, 163, 223);
 }
 
+hr.light {
+    border: 2px solid rgb(236, 183, 34);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
 .about-container {
     display: flex;
     flex-direction: row;
@@ -108,4 +114,40 @@ hr.thick {
     padding-right: 5rem; 
     padding-top: 1rem;
     padding-bottom: 2rem;
+}
+
+.classes-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding-bottom: 3rem;
+}
+
+.group-box {
+    width: 30%;
+    border-style: none;
+    background: none;
+    padding-left: 10rem;
+    padding-right: 5rem; 
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.private-box {
+    width: 30%;
+    border-style: none;
+    background: none;
+    padding-left: 10rem;
+    padding-right: 5rem; 
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.details {
+    display: inline;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: rgb(3, 163, 223);
 }
