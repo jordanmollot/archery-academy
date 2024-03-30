@@ -1,12 +1,6 @@
-footer {
-    background-color: #444444;
-    color: #D9A412;
-    font-size: 16px;
+.footer-container {
     background-image: url('../image/footer-image.jpg');
     background-size: cover;
-}
-
-.footer-container {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -24,6 +18,8 @@ footer {
 }
 
 .footer-text {
+    color: #ecb722;
+    font-size: 16px;
     width: 75%;
     border-style: none;
     background: none;
