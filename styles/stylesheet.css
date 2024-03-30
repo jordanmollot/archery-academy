@@ -6,7 +6,7 @@
 h1 {
     font-weight: bold;
     font-size: 40px;
-    color: #03a3df;
+    color: #0394C9;
     padding-left: 10rem;
     padding-top: 3rem;
     padding-bottom: 0rem;
@@ -15,13 +15,13 @@ h1 {
 h2 {
     font-weight: bold;
     font-size: 24px;
-    color: #ecb722;
+    color: #D9A412;
 }
 
 h3 {
     font-weight: bold;
     font-size: 17px;
-    color: #03a3df;
+    color: #0394C9;
 }
 
 p {
@@ -38,7 +38,7 @@ p {
 }
 
 hr.thick {
-    border: 5px solid #03a3df;
+    border: 5px solid #0394C9;
 }
 
 hr.light {
@@ -77,14 +77,14 @@ hr.light {
 #quote-text {
     font-weight: normal;
     font-size: 30px;
-    color: #03a3df;
+    color: #0394C9;
 }
 
 #quote-speaker {
     font-weight: bold;
     font-size: 14px;
     text-transform: uppercase;
-    color: #03a3df;
+    color: #0394C9;
 }
 
 .instructor-container {
@@ -158,5 +158,5 @@ hr.light {
     font-weight: 600;
     font-size: 14px;
     text-transform: uppercase;
-    color: #03a3df;
+    color: #0394C9;
 }
