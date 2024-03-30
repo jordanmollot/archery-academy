@@ -1,6 +1,6 @@
 footer {
-    background-color: rgb(68, 68, 68);
-    color: rgb(236, 183, 34);
+    background-color: #444444;
+    color: #ecb722;
     font-size: 16px;
     background-image: url('../image/footer-image.jpg');
     background-size: cover;
@@ -35,7 +35,7 @@ footer {
 
 .footer-text a {
     text-decoration: none;
-    color: white;
+    color: #ffffff
 }
 
 .footer-text a:hover {
@@ -48,7 +48,7 @@ footer {
 }
 
 #copyright {
-    color: white;
+    color: #ffffff;
     font-size: 80%;
 }
 

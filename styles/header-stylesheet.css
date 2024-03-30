@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    background-color: rgb(68, 68, 68);
-    color: rgb(236, 183, 34);
+    background-color: #444444;
+    color: #ecb722;
 }
 
 .header-container {
@@ -41,11 +41,11 @@ header {
 
 .nav-box a {
     text-decoration: none;
-    color: white;
+    color: #ffffff;
 }
 
 .nav-box a:hover {
     text-decoration: none;
-    color: rgb(3, 163, 223);
+    color: #03a3df;
 }
 
