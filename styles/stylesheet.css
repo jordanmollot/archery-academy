@@ -36,6 +36,7 @@ h3 {
 p {
     font-weight: normal;
     font-size: 17px;
+    line-height: 1.5rem;
 }
 
 #position1 {
@@ -88,6 +89,7 @@ hr.light {
     font-weight: normal;
     font-size: 30px;
     color: #0394C9;
+    line-height: 2.5rem;
 }
 
 #quote-speaker {
@@ -171,4 +173,5 @@ hr.light {
     font-size: 14px;
     text-transform: uppercase;
     color: #0394C9;
+    line-height: 1.5rem;
 }
